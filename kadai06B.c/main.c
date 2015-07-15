@@ -14,7 +14,7 @@ int main(int argc, const char * argv[]) {
     
     printf("月入力-->");
     scanf("%d",&month);
-    
+    /*hello my name is moon*/
     switch (month) {
         case 2:
             printf("28日");
